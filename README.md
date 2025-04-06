@@ -30,7 +30,7 @@ I'm a passionate **Devolopment Engineer** with a diverse skill set and hands-on 
 
 ## 📈 GitHub profile
 
-![Your GitHub Stats](https://github,com/S-keerthika/project.git)
+![Your GitHub Stats](https://github.com/S-keerthika/project.git)
 
 ## 📣 Let's Connect
 
